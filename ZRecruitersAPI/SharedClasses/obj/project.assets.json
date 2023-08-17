@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ZrecuitersBackend\\ZRecruitersAPI\\BusinessLayer\\BusinessLayer.csproj",
-      "projectName": "BusinessLayer",
-      "projectPath": "C:\\ZrecuitersBackend\\ZRecruitersAPI\\BusinessLayer\\BusinessLayer.csproj",
+      "projectUniqueName": "C:\\ZrecuitersBackend\\ZRecruitersAPI\\SharedClasses\\SharedClasses.csproj",
+      "projectName": "SharedClasses",
+      "projectPath": "C:\\ZrecuitersBackend\\ZRecruitersAPI\\SharedClasses\\SharedClasses.csproj",
       "packagesPath": "C:\\Users\\arajab\\.nuget\\packages\\",
-      "outputPath": "C:\\ZrecuitersBackend\\ZRecruitersAPI\\BusinessLayer\\obj\\",
+      "outputPath": "C:\\ZrecuitersBackend\\ZRecruitersAPI\\SharedClasses\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
